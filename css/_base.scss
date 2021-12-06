@@ -1,0 +1,11 @@
+body, .modal-content{
+background-color: $bg-color;
+font-family: $main;
+}
+.form-label,label,#free,#paid,#exampleCheck1{
+  margin-top: 10px;
+  margin-bottom: 2px;
+}
+body > div.container.job > div > div> div > div> h4{
+  margin: 5px 0px;
+}

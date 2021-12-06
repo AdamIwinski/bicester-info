@@ -1,0 +1,24 @@
+body > div > a > div{
+  -webkit-box-shadow: 2px 2px 10px 2px #888888; 
+  box-shadow: 2px 2px 10px 0px #888888;
+}
+a > i {
+  margin: 10px;
+  &:hover{
+    color: rgb(92, 92, 92);
+  }
+}
+nav{
+  -webkit-box-shadow: 2px 2px 10px 2px #888888; 
+  box-shadow: 2px 2px 10px 0px #888888;
+}
+
+.free{
+  background-color: white;
+  padding: 5px 10px;
+  width: 95%;
+}
+.telephone{
+  color: darkblue;
+  font-weight: 800;
+}
