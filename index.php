@@ -61,7 +61,7 @@
     <!-- Google Fonts -->
     
     <!-- Font Awesome -->
-    <script src="https://kit.fontawesome.com/dd12015ad5.js" crossorigin="anonymous"></script>
+    <script src="###" crossorigin="anonymous"></script>
 
     <!-- OWL Carusel-->
     <link rel="stylesheet" href="css/owl/owl.carousel.min.css">
@@ -85,7 +85,7 @@
 <!-- news -->
 
 <?PHP 
-$url = "https://newsapi.org/v2/top-headlines?country=gb&apiKey=e23bdecdc7e04a749b4c7d9a68c5f247";
+$url = "https://newsapi.org/v2/top-headlines?country=gb&apiKey=###";
 
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
