@@ -1,8 +1,8 @@
 <?php
 
-  $host = "localhost";
-  $db_user = "root";
+  $host = "###";
+  $db_user = "###";
   $db_password = "";
-  $db_name = "bicesterinfo";
+  $db_name = "###";
 
 ?>
